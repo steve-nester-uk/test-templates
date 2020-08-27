@@ -11,7 +11,7 @@ When contacting support, please include as much information as necessary, includ
 
 * Bugsnag version:
 * PHP version:
-* Wordpress version:
+* Wordpress version2:
 
 
 ## Bug or Feature Requests
