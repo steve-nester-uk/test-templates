@@ -21,7 +21,7 @@ A clear and concise description of what the bug is.
 ### Environment
 * Bugsnag version:
 * PHP version:
-* Wordpress version:
+* Wordpress version3:
 
 
 <!--
